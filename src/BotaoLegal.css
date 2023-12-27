@@ -1,0 +1,15 @@
+.botao-legal{
+    background-color: purple;
+    color: #fff;
+    padding: 10px 20px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.botao-legal:hover{
+    background-color: #fff;
+    color: purple;
+    border: 1px solid purple;
+    cursor: pointer;
+}
